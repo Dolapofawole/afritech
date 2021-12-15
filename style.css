@@ -1,0 +1,99 @@
+.bgimage{
+    background-image: url('image/africana.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    padding-top: 200px;
+    
+    
+
+}
+a.nav-link{
+    font-weight: 200;
+}
+.navbar-text{
+    color:rgb(106, 49, 163)!important;
+    font-family:fantasy;
+    font-size: 25px;
+
+}
+body{
+    background-color: linear-gradient(to right, white , rgb(106, 49, 163));
+}
+.first-slider-text{
+    font-size: 25px;
+    color: rgb(252, 24, 111);
+    font-weight: bold;
+}
+.second-slider-text{
+    font-size: 40px;
+    color: rgb(106, 49, 163);
+    font-weight: bolder;
+}
+
+.boxed-btn {
+    background: #FF3414;
+    color: #fff;
+    display: inline-block;
+    padding: 18px 42px;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    border: 0;
+    border: 1px solid transparent;
+    text-align: center;
+    color: #fff !important;
+    text-transform: capitalize;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    cursor: pointer;
+    
+}
+
+.boxed-btn2 {
+    background: #0e8ef7;
+    color: #fff;
+    display: inline-block;
+    padding: 15px 38px;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    border: 0;
+    border: 1px solid transparent;
+    text-align: center;
+    color: #fff !important;
+    text-transform: capitalize;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    cursor: pointer;
+    
+    
+}
+.navbar-text{
+    font-weight: 300;
+}
+.footer{
+    background-color: hsl(0, 3%, 94%);
+}
+
+.footer_title{
+    color: rgb(11, 14, 8)!important;;
+}
+.copyright {
+    color:black;
+}
+a.footer-link{
+    color: black!important;
+}
+@media screen and (max-width:768px){
+    .bgimage{
+        height: auto;
+    }
+    .second-slider-text{
+
+    }
+}

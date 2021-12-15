@@ -1,0 +1,146 @@
+.caption-word{
+    background-color: rgba(70, 16, 16, 0.719);
+    opacity: 1;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(15, 15, 15)!important;
+}
+/* .about-text{
+    font-size: 20px;
+} */
+.navbar-text1{
+    color: rgb(245, 21, 21)!important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    
+  }
+  .navbar-text2{
+    color: 00ff33!important;
+
+    font-size: 20px;
+  }
+
+.navbar{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.navbar-custom{
+    font-size: 20px;
+}
+.head-one{
+    color:00ff33;
+}
+.head-two,.carousel-heading{
+    color: rgb(245, 21, 21);  
+}
+.hod{
+    background-color: aliceblue!important;  
+
+}
+.card:hover{
+ background-color:aliceblue  ;
+}
+.product-headingr:hover{
+    background-color:aliceblue!important ;
+
+   }
+.header{
+    background-color: white!important;
+    
+}
+.text-center{
+    padding:10px;
+}
+.icon{
+    font-size: 90px;
+    color: 00ff33;
+}
+.mynav {
+   width:200px;
+   text-align: center;
+    color:white;
+    justify-content: center;
+}
+.mynav:hover {
+    color:rgb(245, 21, 21);  
+ }
+ .service-heading{
+     padding: 20px;
+ }
+ .mx{
+  text-align: center;
+}
+.list-group-item {
+  margin-bottom: -1px;
+  border:none;
+  background-color: transparent;
+  font-size: 15px;
+  color: white;
+  
+}
+.footer a:hover{
+  color:rgb(245, 21, 21);
+  text-decoration: none;
+  background-color: transparent;
+  
+}
+.mx h4{
+    color:white; 
+    font-size: 20px!important;
+  }
+  .fab.fa-facebook.foot-icon{
+    color: blue;
+    font-size: 20px;
+  }
+  .foot-icon{
+    color: red;
+    font-size: 20px;
+    font-size: 20px;
+   
+  }
+  .copyright{
+    color: black;
+    text-align: center;
+    padding: 10px;
+  }
+  .footer-text1{
+      font-size: 35px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color:rgb(245, 21, 21);
+  }
+  .footer-text2{
+    font-size: 35px;
+    color:00ff33; 
+}
+  
+/* .hire{
+    
+    position: relative;
+    color: white;
+}
+.hire-us img{
+    position: absolute;
+}
+*{box-sizing: border-box;
+} */
+
+ @media screen and (max-width:768px) {
+    .carousel-item img {
+        width: 100%;
+        height: auto;
+    
+    }
+    .hire-us img{
+        width: 100%;
+        height: auto;
+    }
+    .hire h1{
+        font-size: 24px;
+    }
+}
+.pb{
+padding-bottom: 100px;
+}
+.pt{
+    padding-top: 100px;
+}
